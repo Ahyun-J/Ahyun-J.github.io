@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ahyun Jo"
+  name             : "Ahyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "인간" #"I am an **amazing** person."
   location         : "Somewhere"
